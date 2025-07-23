@@ -2,7 +2,6 @@
 💫 About Me:
 =
 🔭 What I'm Up To Right Now:
-
 ⚙️ Strengthening my core concepts in Java and Data Structures & Algorithms for technical interviews.
 🌐 Learning how to build clean, responsive websites and improve overall UI/UX.
 
